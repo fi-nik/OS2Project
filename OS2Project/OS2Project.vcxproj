@@ -111,6 +111,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="D:\ETF\OS 2\part\part.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="D:\ETF\OS 2\part\part.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="D:\ETF\OS 2\part\uputstvo_za_rad_sa_particijom.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\ETF\OS 2\part\disk1.dat" />
+    <None Include="D:\ETF\OS 2\part\p1.ini" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
