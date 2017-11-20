@@ -112,6 +112,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="D:\ETF\OS 2\part\part.h" />
+    <ClInclude Include="Process.h" />
+    <ClInclude Include="vm_declarations.h" />
+    <ClInclude Include="System.h" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="D:\ETF\OS 2\part\part.lib" />
